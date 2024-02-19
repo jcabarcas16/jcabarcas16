@@ -1,0 +1,45 @@
+ol, ul {
+    list-style: none;
+      }
+   
+      a {
+       text-decoration: none;
+
+
+      }
+header {
+    display: flex;
+    background-color: rgb(8, 14, 19); 
+    align-items: center;
+    justify-content:space-between;
+   }
+   header a i {
+     color: aliceblue;
+     font-size: 3em;
+     padding: 0.5em;
+   }
+   header nav ul {
+    display: flex;
+    gap: 3.2em;
+   }
+  
+   header nav ul li a {
+   color: aliceblue;
+   }
+   .JC{
+    color: rgb(255, 9, 13);
+   }
+   
+  .acerca_imagen{
+    display: flex;
+    max-width: 100%;
+    min-width: 400px;
+    
+    max-height: 100%;
+    min-height: 400px;
+  }
+  
+
+ 
+
+
